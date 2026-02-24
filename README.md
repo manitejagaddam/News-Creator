@@ -1,1 +1,1 @@
-"# NewsCreator" 
+# NewsCreator
