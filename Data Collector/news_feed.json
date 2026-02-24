@@ -1,0 +1,142 @@
+[
+    {
+        "source": "Reddit/r/MachineLearning",
+        "title": "[D] Self-Promotion Thread",
+        "link": "https://reddit.com/r/MachineLearning/comments/1qtjnbc/d_selfpromotion_thread/",
+        "score": 7,
+        "summary": "Please post your personal projects, startups, product placements, collaboration needs, blogs etc.\n\nPlease mention the payment and pricing requirements for products and services.\n\nPlease do not post li..."
+    },
+    {
+        "source": "Reddit/r/MachineLearning",
+        "title": "[D] Monthly Who's Hiring and Who wants to be Hired?",
+        "link": "https://reddit.com/r/MachineLearning/comments/1qrrayn/d_monthly_whos_hiring_and_who_wants_to_be_hired/",
+        "score": 13,
+        "summary": "**For Job Postings** please use this template\n\n&gt;Hiring: \\[Location\\], Salary:\\[\\], \\[Remote | Relocation\\], \\[Full Time | Contract | Part Time\\]    and \\[Brief overview, what you're looking for\\]\n\n..."
+    },
+    {
+        "source": "Reddit/r/MachineLearning",
+        "title": "[D] Papers with no code",
+        "link": "https://reddit.com/r/MachineLearning/comments/1rdca7x/d_papers_with_no_code/",
+        "score": 16,
+        "summary": "I can't believe the amount of papers in major conferences that are accepted without providing any code or evidence to back up their claims. A lot of these papers claim to train huge models and present..."
+    },
+    {
+        "source": "Reddit/r/MachineLearning",
+        "title": "[D] Is the move toward Energy-Based Models for reasoning a viable exit from the \"hallucination\" trap of LLMs?",
+        "link": "https://reddit.com/r/MachineLearning/comments/1rco6go/d_is_the_move_toward_energybased_models_for/",
+        "score": 81,
+        "summary": "I\u2019ve been stuck on the recent back-and-forth between Yann LeCun and Demis Hassabis, especially the part about whether LLMs are just \"approximate Turing Machines\" or a fundamental dead end for true rea..."
+    },
+    {
+        "source": "Reddit/r/MachineLearning",
+        "title": "[P] Whisper Accent \u2014 Accent-Aware English Speech Recognition",
+        "link": "https://reddit.com/r/MachineLearning/comments/1rdcb0w/p_whisper_accent_accentaware_english_speech/",
+        "score": 3,
+        "summary": "Hi everyone, I\u2019ve been working on\u00a0Whisper-Accent, a project that investigates how\u00a0to adapt Whisper for\u00a0accented English speech\u00a0while preserving strong\u00a0transcription performance. The\u00a0repository\u00a0provide..."
+    },
+    {
+        "source": "Reddit/r/LocalLLaMA",
+        "title": "AMA with StepFun AI - Ask Us Anything",
+        "link": "https://reddit.com/r/LocalLLaMA/comments/1r8snay/ama_with_stepfun_ai_ask_us_anything/",
+        "score": 113,
+        "summary": "https://preview.redd.it/w8274fg1jekg1.png?width=1785&amp;format=png&amp;auto=webp&amp;s=fadbd0ec26a56e60900f9ed667ae808217d70cf2\n\nHi r/LocalLLaMA !\n\nWe are **StepFun**, the team behind the **Step** fa..."
+    },
+    {
+        "source": "Reddit/r/LocalLLaMA",
+        "title": "Best Audio Models - Feb 2026",
+        "link": "https://reddit.com/r/LocalLLaMA/comments/1r7bsfd/best_audio_models_feb_2026/",
+        "score": 98,
+        "summary": "They've been a ton of audio models released of late, the most notable perhaps being Qwen3 TTS. So its time for another **Best Audio Models** megathread\n\nShare what your favorite ASR, TTS, STT, Text to..."
+    },
+    {
+        "source": "Reddit/r/LocalLLaMA",
+        "title": "Distillation when you do it. Training when we do it.",
+        "link": "https://reddit.com/r/LocalLLaMA/comments/1rcvimv/distillation_when_you_do_it_training_when_we_do_it/",
+        "score": 2409,
+        "summary": "..."
+    },
+    {
+        "source": "Reddit/r/LocalLLaMA",
+        "title": "Anthropic: \"We\u2019ve identified industrial-scale distillation attacks on our models by DeepSeek, Moonshot AI, and MiniMax.\" \ud83d\udea8",
+        "link": "https://reddit.com/r/LocalLLaMA/comments/1rcpmwn/anthropic_weve_identified_industrialscale/",
+        "score": 4057,
+        "summary": "..."
+    },
+    {
+        "source": "Reddit/r/LocalLLaMA",
+        "title": "Anthropic's recent distillation blog should make anyone only ever want to use local open-weight models; it's scary and dystopian",
+        "link": "https://reddit.com/r/LocalLLaMA/comments/1rd8cfw/anthropics_recent_distillation_blog_should_make/",
+        "score": 270,
+        "summary": "It's quite ironic that they went for the censorship and authoritarian angles here.\n\nFull blog: [https://www.anthropic.com/news/detecting-and-preventing-distillation-attacks](https://www.anthropic.com/..."
+    },
+    {
+        "source": "ArXiv (Official)",
+        "title": "Role of octahedral tilting induced acoustic softening on limiting thermal transport in SrSnO3",
+        "link": "http://arxiv.org/abs/2602.20142v1",
+        "score": "New",
+        "summary": "Octahedral tilting is a fundamental structural distortion in perovskites, governing key phenomena such as lattice stabilizing, soft phonon dynamics, group-theoretical analysis, phase transitions, ferr..."
+    },
+    {
+        "source": "ArXiv (Official)",
+        "title": "PackFlow: Generative Molecular Crystal Structure Prediction via Reinforcement Learning Alignment",
+        "link": "http://arxiv.org/abs/2602.20140v1",
+        "score": "New",
+        "summary": "Organic molecular crystals underpin technologies ranging from pharmaceuticals to organic electronics, yet predicting solid-state packing of molecules remains challenging because candidate generation i..."
+    },
+    {
+        "source": "ArXiv (Official)",
+        "title": "Development of a Cherenkov-Based Time-of-Flight Detector Using Silicon Photomultipliers",
+        "link": "http://arxiv.org/abs/2602.20139v1",
+        "score": "New",
+        "summary": "The aim of this work is to develop high precision Time-of-Flight (TOF) devices based on high refractive index solid Cherenkov radiators read out by silicon photomultipliers (SiPMs). Cherenkov light is..."
+    },
+    {
+        "source": "ArXiv (Official)",
+        "title": "Coexisting magnetic, charge, and superconducting orders in the two-dimensional Hubbard model",
+        "link": "http://arxiv.org/abs/2602.20073v1",
+        "score": "New",
+        "summary": "We perform a renormalized mean-field study of the two-dimensional repulsive Hubbard model, focusing on the intricate interplay and possible coexistence of magnetic, charge, and superconducting orders...."
+    },
+    {
+        "source": "ArXiv (Official)",
+        "title": "Cr3+ spin dynamics under the octahedral crystal field in van der Waals antiferromagnets",
+        "link": "http://arxiv.org/abs/2602.20033v1",
+        "score": "New",
+        "summary": "The magnetic moment in van der Waals (vdW) materials containing 3d transition metals originates from unpaired d-electron spins and their interaction with surrounding ligands. The interplay between exc..."
+    },
+    {
+        "source": "Semantic Scholar",
+        "title": "Dream 7B: Diffusion Large Language Models",
+        "link": "https://www.semanticscholar.org/paper/175720cc5b1ae343711044c4a5c2af3bf14f06c4",
+        "score": 179,
+        "summary": "We introduce Dream 7B, the most powerful open diffusion large language model to date. Unlike autoregressive (AR) models that generate tokens sequentially, Dream 7B employs discrete diffusion modeling ..."
+    },
+    {
+        "source": "Semantic Scholar",
+        "title": "Toward expert-level medical question answering with large language models",
+        "link": "https://www.semanticscholar.org/paper/b34c0b0169925a6c7f14e3de9764ed9505f30de3",
+        "score": 621,
+        "summary": "Large language models (LLMs) have shown promise in medical question answering, with Med-PaLM being the first to exceed a \u2018passing\u2019 score in United States Medical Licensing Examination style questions...."
+    },
+    {
+        "source": "Semantic Scholar",
+        "title": "Vision-R1: Incentivizing Reasoning Capability in Multimodal Large Language Models",
+        "link": "https://www.semanticscholar.org/paper/942328473407147f609761dc22128a503713df58",
+        "score": 401,
+        "summary": "DeepSeek-R1-Zero has successfully demonstrated the emergence of reasoning capabilities in LLMs purely through Reinforcement Learning (RL). Inspired by this breakthrough, we explore how RL can be utili..."
+    },
+    {
+        "source": "Semantic Scholar",
+        "title": "HealthBench: Evaluating Large Language Models Towards Improved Human Health",
+        "link": "https://www.semanticscholar.org/paper/01ea7fbc2604679dd80bf6271a64dc19cc5f0390",
+        "score": 151,
+        "summary": "We present HealthBench, an open-source benchmark measuring the performance and safety of large language models in healthcare. HealthBench consists of 5,000 multi-turn conversations between a model and..."
+    },
+    {
+        "source": "Semantic Scholar",
+        "title": "d1: Scaling Reasoning in Diffusion Large Language Models via Reinforcement Learning",
+        "link": "https://www.semanticscholar.org/paper/8e3b1f5d8b6c165f64137cc1f7dea89cf6f622bd",
+        "score": 90,
+        "summary": "Recent large language models (LLMs) have demonstrated strong reasoning capabilities that benefits from online reinforcement learning (RL). These capabilities have primarily been demonstrated within th..."
+    }
+]
