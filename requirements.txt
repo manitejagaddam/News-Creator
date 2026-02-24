@@ -1,2 +1,4 @@
-urllib  #arxiv library for the 
-paperswithcode-client   # used to fetch the latest papers with teh arxiv id 
+requests
+arxiv
+paperswithcode-client   # used to fetch the latest papers with teh arxiv id
+crawl4ai  # web scraping for fetching detailed content from URLs 

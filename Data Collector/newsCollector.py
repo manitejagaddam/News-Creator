@@ -1,3 +1,4 @@
+import os
 import asyncio
 import json
 import requests
@@ -145,8 +146,16 @@ class AgenticNewsCollector:
         all_news.extend(enriched_items)
         
         # 4. Save output
+        target_dir = os.path.join("..", "Data")
+
+        # 2. Create the directory safely
+        os.makedirs(target_dir, exist_ok=True)
+
+        # 3. Construct the full file path
         filename = f"{topic.replace(' ', '_').lower()}_news.json"
-        with open(filename, "w", encoding="utf-8") as f:
+        filepath = os.path.join(target_dir, filename)
+        
+        with open(filepath, "w", encoding="utf-8") as f:
             json.dump(all_news, f, indent=4)
         print(f"\n[SUCCESS] Collected {len(all_news)} news items into {filename}")
 
