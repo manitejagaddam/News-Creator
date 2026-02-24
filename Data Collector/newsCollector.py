@@ -7,7 +7,7 @@ import urllib.parse
 import xml.etree.ElementTree as ET
 from crawl4ai import AsyncWebCrawler, BrowserConfig, CrawlerRunConfig, CacheMode
 
-class AgenticNewsCollector:
+class NewsCollector:
     def __init__(self):
         self.headers = {'User-Agent': 'AI-News-Generator-Bot/1.0'}
         self.browser_config = BrowserConfig(headless=True)
@@ -160,7 +160,7 @@ class AgenticNewsCollector:
         print(f"\n[SUCCESS] Collected {len(all_news)} news items into {filename}")
 
 if __name__ == "__main__":
-    collector = AgenticNewsCollector()
+    collector = NewsCollector()
     
     # You can change this single variable to whatever you want to research!
     SEARCH_TOPIC = "Autonomous AI Agents"
