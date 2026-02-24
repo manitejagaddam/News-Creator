@@ -1,0 +1,5 @@
+Collecting chardet
+  Using cached chardet-6.0.0.post1-py3-none-any.whl.metadata (3.3 kB)
+Using cached chardet-6.0.0.post1-py3-none-any.whl (627 kB)
+Installing collected packages: chardet
+Successfully installed chardet-6.0.0.post1
